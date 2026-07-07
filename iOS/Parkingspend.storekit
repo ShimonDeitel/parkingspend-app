@@ -1,0 +1,29 @@
+{
+  "identifier": "parkingspend",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "parkingspend_pro",
+      "localizations": [
+        {
+          "description": "Unlocks monthly totals by location and expense-report export.",
+          "displayName": "Parkingspend Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "parkingspend_pro",
+      "referenceName": "Parkingspend Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
